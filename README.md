@@ -62,7 +62,7 @@ Human/hazard detection accuracy is constrained by the limited processing power o
 No physical rescue or manipulation capability — detection and reporting only
 License
 
-(Add your license here — MIT is a common choice for academic/open projects)
+MIT License
 
 Acknowledgments
 
